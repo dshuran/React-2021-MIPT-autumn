@@ -61,7 +61,8 @@
     искать проблему
   * Запрос данных с github должен быть вынесен в отдельный хук (см. картинку).
   Единственным аргументом должен быть ваш username
-  ![data fetching image](dataFetch.jpg)
+    *
+    ![data fetching image](dataFetch.jpg)
   * Хук useGithubData можно объявить в том же файле, что и компонент AboutPage.
   При желании - можно вынести
   
